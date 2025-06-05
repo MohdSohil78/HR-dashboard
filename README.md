@@ -5,12 +5,16 @@
 This project focuses on analyzing employee attrition patterns using an interactive HR analytics dashboard. The goal is to identify key factors contributing to employee turnover and provide actionable insights to improve employee retention strategies.
 
 3. Data stack
-•	Power BI desktop - Main data visualization platform used for report creation.
+
+•Power BI desktop - Main data visualization platform used for report creation.
+
 •	Power Query Editor – Data transformation and cleaning layer for reshaping and preparing the data.
+
 •	DAX – Used for calculated Measures 
+
 •	File Format - .pbix for development and .png for dashboard previews.
 
-4. Features / Highlights
+5. Features / Highlights
 •	Business Problem
 The organization faces high employee attrition but lacks clear insights into the causes. This impacts productivity, increases hiring costs, and affects team stability.
 •	Goal of the dashboard
