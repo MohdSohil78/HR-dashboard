@@ -47,6 +47,7 @@ Bar chart highlighting which roles have the most attrition.
 Insight: Roles like Laboratory Technician and Sales Executive are most affected.
 
 •	Business Insights
+
 The HR analytics dashboard shows a 16.12% attrition rate, with the highest turnover among employees aged 26–35 and those earning up to 5K. Roles most affected include Laboratory Technicians and Sales Executives. Life Sciences and Medical education backgrounds account for a large share of attrition. These insights highlight the need to improve employee retention through better compensation, targeted engagement strategies, and career development opportunities in the most affected departments and demographics.
 
 
