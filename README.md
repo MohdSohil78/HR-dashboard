@@ -1,10 +1,13 @@
 # HR-Dashboard
 1. Project Title / Headline
-   HR Attrition Analysis Dashboard
-2. Description / Purpose
+ 
+ HR Attrition Analysis Dashboard
+
+3. Description / Purpose
+
 This project focuses on analyzing employee attrition patterns using an interactive HR analytics dashboard. The goal is to identify key factors contributing to employee turnover and provide actionable insights to improve employee retention strategies.
 
-3. Data stack
+4. Data stack
 
 •Power BI desktop - Main data visualization platform used for report creation.
 
